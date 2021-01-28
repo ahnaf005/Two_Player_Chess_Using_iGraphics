@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1464603284 source:e:\c\desktop\files\chess 2\imain.cpp
+	"iGraphics2.h"
+
+1464602624 e:\c\desktop\files\chess 2\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<glaux.h>
+
+1464610982 source:g:\chess 2\imain.cpp
+	"iGraphics2.h"
+
+1464605552 g:\chess 2\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1464613548 source:d:\chess 3\imain.cpp
+	"iGraphics2.h"
+
+1464605552 d:\chess 3\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1464613548 source:f:\project and assignments\chess 3\imain.cpp
+	"iGraphics2.h"
+
+1464605552 f:\project and assignments\chess 3\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465019099 source:e:\c\chess 3\imain.cpp
+	"iGraphics2.h"
+
+1464860691 e:\c\chess 3\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<glaux.h>
+
+1465202264 source:e:\c\chesss 4\chess 4\imain.cpp
+	"iGraphics2.h"
+
+1464860691 e:\c\chesss 4\chess 4\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<glaux.h>
+
+1465219790 source:e:\c\chess 5\imain.cpp
+	"iGraphics2.h"
+
+1464860691 e:\c\chess 5\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<glaux.h>
+
+1465296200 source:e:\c\chess6\chess 6\imain.cpp
+	"iGraphics2.h"
+
+1464860691 e:\c\chess6\chess 6\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<glaux.h>
+
+1465354745 source:f:\project and assignments\chess 6\imain.cpp
+	"iGraphics2.h"
+
+1465325175 f:\project and assignments\chess 6\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465360169 source:f:\project and assignments\experiment\chess 6\imain.cpp
+	"iGraphics2.h"
+
+1465325175 f:\project and assignments\experiment\chess 6\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465365149 source:f:\project and assignments\chess main project\chess 6\imain.cpp
+	"iGraphics2.h"
+
+1465325175 f:\project and assignments\chess main project\chess 6\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1478614319 source:f:\chess main project\chess 6\imain.cpp
+	"iGraphics2.h"
+
+1478455433 f:\chess main project\chess 6\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1478574358 source:e:\papan(f)\term projects\c- two player chess\chess main project\chess 6\imain.cpp
+	"iGraphics2.h"
+
+1478405034 e:\papan(f)\term projects\c- two player chess\chess main project\chess 6\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
